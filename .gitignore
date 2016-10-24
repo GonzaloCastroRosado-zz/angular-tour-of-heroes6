@@ -1,0 +1,8 @@
+app/**/*.js
+app/**/*.map
+*.swp
+node_modules/
+jspm_packages/
+typings/
+dist/
+*.log
